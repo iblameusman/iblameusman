@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usman Riaz
 - 👀 I’m interested in Programming, Cyber Security etc
 - 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Laravel Project
 - 📫 You can Contact me through Instagram="user6629207" whatsapp="+923038507420"
 
 <!---
