@@ -1,51 +1,75 @@
-# 👋 Hi, I'm Usman (iblameusman)
+<!-- Profile Banner with animated gradient -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Usman+%7C+iblameusman;15-year-old+Web+Developer;Laravel+%7C+PHP+%7C+JS+%7C+AI+Enthusiast" alt="Typing SVG" />
+</p>
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=iblameusman&fontSize=40&fontAlign=50&fontColor=fff)
-
-## 🚀 About Me
-
-- 🎓 15-year-old student passionate about tech and creativity
-- 🌐 Web developer with hands-on experience in:
-  - **Laravel**
-  - **PHP**
-  - **HTML & CSS**
-  - **JavaScript**
-  - **Alpine.js**
-  - **Tailwind CSS**
-- 🤖 Enthusiast of computers and artificial intelligence
-
-## 🌟 Featured Project
-
-[![xcrackly.com](https://img.shields.io/badge/-xcrackly.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white)](https://xcrackly.com/)
-
-> xcrackly.com — My APK site project for sharing and discovering Android apps!
-
-## 🛠️ Tech Stack
-
-![Laravel](https://img.shields.io/badge/-Laravel-e34c26?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-77C1D2?style=flat-square&logo=alpine.js&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat-square&logo=tailwind-css)
-
-## 💡 Hobbies & Interests
-
-- 🖥️ Exploring new tech and building cool web projects
-- 🤩 Learning about Artificial Intelligence
-- 🎮 Enjoying time on the computer
-
-## 📫 Let's Connect!
-
-- GitHub: [iblameusman](https://github.com/iblameusman)
-
-<!-- Add more social links below if you want!
-- [Twitter](#)
-- [LinkedIn](#)
-- [Personal Website](#)
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=iblameusman&fontSize=40&fontAlign=50&fontColor=fff"/>
+</div>
 
 ---
 
-> "Stay curious, keep building, and let your creativity shine!"
+## 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="160" />
+
+- 🎓 **15-year-old student** passionate about tech & creativity
+- 🌐 **Web developer** with experience in:
+  - Laravel, PHP, HTML, CSS, JavaScript
+  - Alpine.js, Tailwind CSS, and more!
+- 🤖 **AI & Computer Enthusiast** — always learning
+
+---
+
+## 🌟 Featured Project
+
+<p align="center">
+  <a href="https://xcrackly.com/">
+    <img src="https://img.shields.io/badge/-xcrackly.com-1a1a1a?style=for-the-badge&logo=android&logoColor=white" alt="xcrackly.com" />
+  </a>
+</p>
+
+> **[xcrackly.com](https://xcrackly.com/)** — My APK site project for sharing and discovering Android apps!
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,tailwind,alpinejs" alt="Skills" />
+</p>
+
+---
+
+## 🎨 Animation & Design
+
+- Modern, minimal, and always experimenting with new UI/UX trends
+- Love using **Tailwind CSS** and **Alpine.js** for slick, interactive designs
+- Constantly adding new animations and effects to my projects!
+
+---
+
+## 💡 Hobbies & Interests
+
+- 🖥️ Exploring tech and building cool web projects
+- 🤩 Learning about Artificial Intelligence
+- 🎮 Enjoying time with computers and games
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/iblameusman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Add other social links here if you want -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=800&color=F472B6&center=true&vCenter=true&width=350&lines=Stay+curious+%F0%9F%8C%9F;Keep+Building+%F0%9F%92%BB;Let+Your+Creativity+Shine+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+<!--
+Add more socials or sections as you grow!
+-->
