@@ -157,11 +157,11 @@ const usman = {
 <div align="center">
   
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameusman&theme=synthwave&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FF6B6B&area=true&area_color=FF6B6B"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameusman&theme=synthwave&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FF6B6B&area=true&area_color=FF6B6B" alt="Activity Graph"/>
 
 <!-- Detailed Stats -->
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iblameusman&theme=synthwave"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iblameusman&theme=synthwave&utcOffset=5"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iblameusman&show_icons=true&theme=synthwave&hide_border=true" alt="Detailed Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblameusman&layout=compact&theme=synthwave&hide_border=true" alt="Language Stats"/>
 
 </div>
 
@@ -170,7 +170,7 @@ const usman = {
 ## 🎵 Vibe Check
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?background_color=0d1117&border_color=ffffff&bar_color=53b14f&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.kirandev.com/api/spotify-playing" alt="Spotify Now Playing"/>
 </div>
 
 ---
@@ -179,7 +179,7 @@ const usman = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=iblameusman&theme=synthwave&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iblameusman&theme=synthwave&no-frame=true&row=1&column=7)](https://github.com/iblameusman)
 
 </div>
 
@@ -265,10 +265,10 @@ next_learning:
 <td width="33%">
 
 ### 📈 **Growth Metrics**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iblameusman&theme=synthwave&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iblameusman&show_icons=true&theme=synthwave&hide_border=true&custom_title=Weekly%20Growth" alt="Weekly Growth"/>
 
 ### 🏆 **Coding Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iblameusman&theme=synthwave&hide_border=true&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=FFE66D&dates=8A2BE2"/>
+<img src="https://streak-stats.demolab.com/?user=iblameusman&theme=synthwave&hide_border=true&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=FFE66D&dates=8A2BE2" alt="Coding Streak"/>
 
 </td>
 <td width="33%">
@@ -277,7 +277,7 @@ next_learning:
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
 
 ### 🎲 **Random Dev Fact**
-<img src="https://readme-jokes.vercel.app/api?theme=synthwave&hideBorder=true"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Random Developer Fact"/>
 
 </td>
 </tr>
@@ -364,7 +364,7 @@ Alpine.js    ████████     75%
 <td align="center">
 
 ### 📈 **Learning Curve**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iblameusman&theme=synthwave&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Time"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblameusman&theme=synthwave&hide_border=true&layout=compact&custom_title=Technology%20Distribution" alt="Technology Distribution"/>
 
 </td>
 </tr>
@@ -507,7 +507,7 @@ timeline
 ## 🎪 Random Developer Jokes
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=synthwave&hideBorder=true"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Developer Joke"/>
 </div>
 
 ---
@@ -515,7 +515,11 @@ timeline
 ## 🎨 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
+  </picture>
 </div>
 
 ---
@@ -531,7 +535,7 @@ timeline
 ## 🌈 Inspiration Corner
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&author=Chinese%20Proverb"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Inspirational Quote"/>
 </div>
 
 ### 💭 **Developer Mantras**
@@ -544,7 +548,7 @@ timeline
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=3&unique=true"/>
+  <img src="https://spotify-github-profile.kirandev.com/api/spotify" alt="Spotify Recently Played"/>
 </div>
 
 ---
@@ -552,7 +556,7 @@ timeline
 ## 🎮 Gaming Corner
 
 <div align="center">
-  <img src="https://steam-stat.vercel.app/api?username=your_steam_id&theme=synthwave" alt="Steam Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iblameusman&show_icons=true&theme=synthwave&hide_border=true&custom_title=🎮%20Gaming%20%26%20Dev%20Stats" alt="Gaming Stats"/>
 </div>
 
 ---
@@ -611,11 +615,13 @@ timeline
 </div>
 
 <!-- Snake Eating Contributions Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
+  </picture>
+</div>
 
 ---
 
@@ -639,7 +645,7 @@ timeline
 
 <!-- Dynamic Counter -->
 <div align="center">
-  <img src="https://count.getloli.com/get/@iblameusman?theme=rule34" alt="Visitor Counter"/>
+  <img src="https://profile-counter.glitch.me/iblameusman/count.svg" alt="Visitor Counter"/>
 </div>
 
 ---
@@ -668,7 +674,7 @@ timeline
 
 <!-- Animated Divider -->
 <div align="center">
-  <img width="100%" src="https://github.com/iblameusman/iblameusman/blob/main/assets/rainbow-divider.gif" alt="Rainbow Divider"/>
+  <img width="100%" src="https://github.com/iblameusman/iblameusman/blob/main/assets/rainbow-line.gif" alt="Rainbow Divider"/>
 </div>
 
 <!--
