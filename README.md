@@ -648,7 +648,7 @@ timeline
 
 <!-- Dynamic Counter -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iblameusman&icon=0&color=0" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=iblameusman&style=for-the-badge&color=brightgreen&labelColor=000000&label=Total%20Visitors" alt="Visitor Counter"/>
 </div>
 
 ---
