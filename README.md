@@ -621,11 +621,6 @@ timeline
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:667eea,75:764ba2,100:f093fb&height=150&section=footer&animation=fadeIn"/>
 </div>
 
-<!-- Alternative Contribution Visualization -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameusman&theme=synthwave&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FF6B6B&area=true&area_color=FF6B6B&title_color=FFD700&custom_title=🐍%20Contribution%20Activity" alt="Contribution Snake Alternative"/>
-</div>
-
 ---
 
 <!-- Floating Action Buttons -->
