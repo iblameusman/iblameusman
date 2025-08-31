@@ -648,7 +648,7 @@ timeline
 
 <!-- Dynamic Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iblameusman/count.svg" alt="Visitor Counter"/>
+  <img src="https://visitcount.itsvg.in/api?id=iblameusman&icon=0&color=0" alt="Visitor Counter"/>
 </div>
 
 ---
