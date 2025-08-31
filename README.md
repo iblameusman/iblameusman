@@ -167,10 +167,16 @@ const usman = {
 
 ---
 
-## 🎵 Vibe Check
+## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.kirandev.com/api/spotify-playing" alt="Spotify Now Playing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=%F0%9F%8E%B5+Currently+jamming+to+awesome+beats;%F0%9F%8E%A7+Music+fuels+my+coding+sessions;%F0%9F%8E%B5+Lofi+%7C+Electronic+%7C+Synthwave;%F0%9F%8E%B6+Great+code+needs+great+music!;%F0%9F%8E%B5+What's+your+coding+playlist%3F" alt="Music Vibes"/>
+  
+  <!-- Alternative Music Display -->
+  <br>
+  <img src="https://img.shields.io/badge/🎵_Now_Playing-Lofi_Hip_Hop-1DB954?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🎧_Mood-Focused_Coding-FF1744?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🎶_Genre-Electronic/Synthwave-9C27B0?style=for-the-badge&labelColor=000000"/>
 </div>
 
 ---
@@ -268,7 +274,7 @@ next_learning:
 <img src="https://github-readme-stats.vercel.app/api?username=iblameusman&show_icons=true&theme=synthwave&hide_border=true&custom_title=Weekly%20Growth" alt="Weekly Growth"/>
 
 ### 🏆 **Coding Streak**
-<img src="https://streak-stats.demolab.com/?user=iblameusman&theme=synthwave&hide_border=true&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=FFE66D&dates=8A2BE2" alt="Coding Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iblameusman&theme=synthwave&hide_border=true&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=FFE66D&dates=8A2BE2" alt="Coding Streak"/>
 
 </td>
 <td width="33%">
@@ -495,10 +501,17 @@ timeline
   
 | 🏆 Achievement | 📊 Progress | 🎯 Status |
 |:-------------:|:-----------:|:---------:|
-| **Lines of Code** | 50,000+ | ![100%](https://progress-bar.dev/100/?scale=50000&title=Milestone&suffix=+&width=200) |
-| **Projects Completed** | 15+ | ![75%](https://progress-bar.dev/75/?title=Growth&width=200) |
-| **Technologies Learned** | 20+ | ![90%](https://progress-bar.dev/90/?title=Stack&width=200) |
-| **Coffee Consumed** | ∞ | ![200%](https://progress-bar.dev/200/?title=Fuel&suffix=%20cups&width=200) |
+| **Lines of Code** | 50,000+ | ![100%](https://img.shields.io/badge/Milestone-50K%2B_Lines-success?style=for-the-badge&logo=code&logoColor=white) |
+| **Projects Completed** | 15+ | ![75%](https://img.shields.io/badge/Portfolio-15%2B_Projects-blue?style=for-the-badge&logo=rocket&logoColor=white) |
+| **Technologies Learned** | 20+ | ![90%](https://img.shields.io/badge/Skills-20%2B_Technologies-purple?style=for-the-badge&logo=star&logoColor=white) |
+| **Coffee Consumed** | ∞ | ![200%](https://img.shields.io/badge/Fuel-∞_Cups_Coffee-brown?style=for-the-badge&logo=coffee&logoColor=white) |
+
+<!-- Achievement Badges -->
+<br><br>
+<img src="https://img.shields.io/badge/🎯_Code_Commits-1000%2B-brightgreen?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🌟_GitHub_Stars-Growing-yellow?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🚀_Active_Projects-5-blue?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/⏰_Coding_Hours-2000%2B-red?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -515,11 +528,13 @@ timeline
 ## 🎨 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
-  </picture>
+  <!-- Working GitHub Snake Animation -->
+  <img src="https://github.com/iblameusman/iblameusman/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+  <img src="https://github.com/iblameusman/iblameusman/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
+  
+  <!-- Alternative Contribution Display -->
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameusman&theme=synthwave&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FF6B6B&area=true&area_color=FF6B6B&title_color=FFD700" alt="Contribution Activity Graph"/>
 </div>
 
 ---
@@ -542,14 +557,6 @@ timeline
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=4000&pause=1500&color=F72C5B&center=true&vCenter=true&width=800&lines=%F0%9F%92%A1+Code+is+poetry+written+in+logic;%F0%9F%8C%B1+Every+expert+was+once+a+beginner;%F0%9F%9A%80+The+future+belongs+to+those+who+code+it;%F0%9F%94%A5+Passion+fuels+persistence;%E2%9C%A8+Dream+in+code%2C+build+in+reality" alt="Mantras" />
 </p>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.kirandev.com/api/spotify" alt="Spotify Recently Played"/>
-</div>
 
 ---
 
@@ -582,10 +589,10 @@ timeline
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/iblameusman?style=for-the-badge&color=38BDF8&labelColor=000000)](https://github.com/iblameusman?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/iblameusman?style=for-the-badge&color=F472B6&labelColor=000000)](https://github.com/iblameusman?tab=repositories)
-[![Repositories](https://badges.pufler.dev/repos/iblameusman?style=for-the-badge&color=success&labelColor=000000)](https://github.com/iblameusman?tab=repositories)
-[![Years on GitHub](https://badges.pufler.dev/years/iblameusman?style=for-the-badge&color=blue&labelColor=000000)](https://github.com/iblameusman)
+[![GitHub followers](https://img.shields.io/github/followers/iblameusman?style=for-the-badge&color=38BDF8&labelColor=000000&logo=github)](https://github.com/iblameusman?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/iblameusman?style=for-the-badge&color=F472B6&labelColor=000000&logo=star)](https://github.com/iblameusman?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/iblameusman&style=for-the-badge&color=success&labelColor=000000&logo=github)](https://github.com/iblameusman?tab=repositories)
+[![GitHub Profile](https://img.shields.io/badge/Profile%20Since-2022-blue?style=for-the-badge&labelColor=000000&logo=github)](https://github.com/iblameusman)
 
 </div>
 
@@ -614,13 +621,9 @@ timeline
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:667eea,75:764ba2,100:f093fb&height=150&section=footer&animation=fadeIn"/>
 </div>
 
-<!-- Snake Eating Contributions Animation -->
+<!-- Alternative Contribution Visualization -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblameusman/iblameusman/output/github-snake-dark.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameusman&theme=synthwave&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FF6B6B&area=true&area_color=FF6B6B&title_color=FFD700&custom_title=🐍%20Contribution%20Activity" alt="Contribution Snake Alternative"/>
 </div>
 
 ---
@@ -674,7 +677,7 @@ timeline
 
 <!-- Animated Divider -->
 <div align="center">
-  <img width="100%" src="https://github.com/iblameusman/iblameusman/blob/main/assets/rainbow-line.gif" alt="Rainbow Divider"/>
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider"/>
 </div>
 
 <!--
