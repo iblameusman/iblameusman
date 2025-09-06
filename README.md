@@ -527,11 +527,7 @@ timeline
 
 ## 🎨 Contribution Snake
 
-<div align="center">
-  <!-- Working GitHub Snake Animation -->
-  <img src="https://github.com/iblameusman/iblameusman/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
-  <img src="https://github.com/iblameusman/iblameusman/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
-  
+<div align="center">  
   <!-- Alternative Contribution Display -->
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameusman&theme=synthwave&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FF6B6B&area=true&area_color=FF6B6B&title_color=FFD700" alt="Contribution Activity Graph"/>
