@@ -8,7 +8,7 @@ I'm a 15-year-old developer passionate about building web applications and explo
 
 ## 🚀 About Me
 
-- 💼 Available for freelance work on [Fiverr](https://www.fiverr.com/sellers/musman8888)
+- 💼 Available for freelance work on [Fiverr](https://www.fiverr.com/s/EgQxQLd)
 - 🌱 Currently mastering Laravel and AI integrations
 - 💻 Coding 6-8 hours daily
 - 🎯 Open to collaboration and new opportunities
@@ -55,7 +55,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-872b97308/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musmanriaz8888@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923038507420)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/musman8888)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/EgQxQLd)
 
 ---
 
