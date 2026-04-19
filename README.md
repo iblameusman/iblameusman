@@ -44,7 +44,7 @@ AI/ML • React • Node.js
 My personal portfolio and tech blog showcasing various web development projects and experiments.
 
 ### [CloudERP360 - PMS](https://pms.clouderp360.com)
-A comprehensive Property Management System built with modern web technologies for efficient property operations.
+A comprehensive Petrol Management System built with modern web technologies for efficient Station operations.
 
 ---
 
