@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Laravel Enthusiast | AI Explorer
 
-I'm a 15-year-old developer passionate about building web applications and exploring AI technologies. Currently focusing on Laravel, PHP, and JavaScript to create meaningful solutions.
+I'm a 16-year-old developer passionate about building web applications and exploring AI technologies. Currently focusing on Laravel, PHP, and JavaScript to create meaningful solutions.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a 15-year-old developer passionate about building web applications and explo
 
 - 💼 Available for freelance work on [Fiverr](https://www.fiverr.com/s/EgQxQLd)
 - 🌱 Currently mastering Laravel and AI integrations
-- 💻 Coding 6-8 hours daily
+- 💻 Coding 2-3 hours daily
 - 🎯 Open to collaboration and new opportunities
 - 📍 Based in Bahawalpur, Pakistan
 
@@ -43,7 +43,7 @@ AI/ML • React • Node.js
 ### [xcrackly.com](https://xcrackly.com)
 My personal portfolio and tech blog showcasing various web development projects and experiments.
 
-### [CloudERP360 - PMS](https://pms.clouderp360.com)
+### [CloudERP360 - PMS](https://clouderp360.com)
 A comprehensive Petrol Management System built with modern web technologies for efficient Station operations.
 
 ---
