@@ -1,74 +1,11 @@
-# Hi there, I'm Usman 👋
+Hello Guyzz! I am Usman, a tech nerd who always tries to discover new technologies and learn something new.
 
-### Full-Stack Developer | Laravel Enthusiast | AI Explorer
+I have learned the basics of Cybersecurity, AI, Laravel, and many other technologies.
 
-I'm a 16-year-old developer passionate about building web applications and exploring AI technologies. Currently focusing on Laravel, PHP, and JavaScript to create meaningful solutions.
+Currently, I am working on some of my favorite projects with my brothers and colleagues, including:
 
----
+- **AI Trading:** An AI-powered trading project based on the Kronos open-source model.
+- **CloudERP360:** A SaaS project designed for mobile shops and gyms.
+- **DIFBR.pk:** An e-invoicing software for sales tax-registered retailers.
 
-## 🚀 About Me
-
-- 💼 Available for freelance work on [Fiverr](https://www.fiverr.com/s/EgQxQLd)
-- 🌱 Currently mastering Laravel and AI integrations
-- 💻 Coding 2-3 hours daily
-- 🎯 Open to collaboration and new opportunities
-- 📍 Based in Bahawalpur, Pakistan
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-PHP • Laravel • JavaScript • HTML • CSS
-
-**Tools & Platforms:**
-Git • MySQL • VS Code
-
-**Currently Learning:**
-AI/ML • React • Node.js
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iblameusman&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iblameusman&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎨 Featured Projects
-
-### [xcrackly.com](https://xcrackly.com)
-My personal portfolio and tech blog showcasing various web development projects and experiments.
-
-### [CloudERP360 - PMS](https://clouderp360.com)
-A comprehensive Petrol Management System built with modern web technologies for efficient Station operations.
-
----
-
-## 📫 Get In Touch
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-872b97308/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musmanriaz8888@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923038507420)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/EgQxQLd)
-
----
-
-## 💼 Hire Me on Fiverr
-
-Looking for a developer to bring your ideas to life? I offer custom web development, Laravel solutions, and AI integrations.
-
-**[👉 Visit My Fiverr Profile](https://www.fiverr.com/sellers/musman8888)**
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iblameusman&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  **Let's build something amazing together!** 🚀
-</div>
+Recently, I also participated in a Hackathon Haven in 2026.
