@@ -9,3 +9,6 @@ Currently, I am working on some of my favorite projects with my brothers and col
 - **DIFBR.pk:** An e-invoicing software for sales tax-registered retailers.
 
 Recently, I also participated in a Hackathon Haven in 2026.
+
+My Social Links
+Instagram https://www.instagram.com/iblameus.man/
